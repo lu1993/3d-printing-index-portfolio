@@ -1,0 +1,155 @@
+Name,Match,nameStrPercent,matchStrPercent,nameWordPercent,matchWordPercent,Ticker,Exchange
+Delphi,Delphi Automotive PLC,1.0,0.285714285714,1.0,0.5,DLPH,NYQ
+Konica Minolta,"Konica Minolta, Inc.",1.0,0.7,1.0,1.0,KPI1.F,FRA
+Moog Inc,Moog Inc.,1.0,0.888888888889,1.0,1.0,MO7A.F,FRA
+Alcoa,Alcoa Inc.,1.0,0.5,1.0,1.0,ALU.DE,GER
+Amtech,"Amtech Systems, Inc.",1.0,0.3,1.0,1.0,ASYS,NMS
+Carbon,Carbon Energy Limited,1.0,0.285714285714,1.0,1.0,CNXAY,OBB
+Graphisoft,Graphisoft Park SE Namens-Akt.,1.0,0.333333333333,1.0,0.25,GUV.SG,STU
+Atos,Atos SE,1.0,0.571428571429,1.0,1.0,AEXAY,PNK
+Stryker,Stryker Corporation,1.0,0.368421052632,1.0,1.0,SYK.F,FRA
+Renishaw,Renishaw plc,1.0,0.666666666667,1.0,1.0,RSW.L,LSE
+Stratasys,Stratasys Ltd.,1.0,0.642857142857,1.0,1.0,SCY.F,FRA
+VG,Lexam VG Gold Inc. Registered S,1.0,0.0645161290323,1.0,0.333333333333,VN3A.SG,STU
+Toray,"Toray Industries, Inc.",1.0,0.227272727273,1.0,0.5,TRYIY,PNK
+Tinkerine,Tinkerine Studios Ltd.,1.0,0.409090909091,1.0,0.5,TKSTF,PNK
+Hermle AG,Maschinenfabrik Berthold Hermle AG,1.0,0.264705882353,1.0,0.333333333333,MBH3.F,FRA
+Fastbrick Robotics,Fastbrick Robotics Limited,1.0,0.692307692308,1.0,1.0,DMY.AX,ASX
+Safilo,Safilo Group S.p.A.,1.0,0.315789473684,1.0,0.5,SFLN.MX,MEX
+Treasure Island,Treasure Island Royalty Trust,1.0,0.51724137931,1.0,0.5,TISDZ,PNK
+ConforMIS,"ConforMIS, Inc.",1.0,0.6,1.0,1.0,CFMS,NMS
+Safran,Safran SA,1.0,0.666666666667,1.0,1.0,SAFRF,PNK
+Cambridge Technology,Cambridge Technology Enterprises Limited,1.0,0.5,1.0,0.5,CTE.BO,BSE
+Initial,Rentokil Initial PLC Registered,1.0,0.225806451613,1.0,0.5,RTO1.SG,STU
+Express Group,National Express Group PLC,1.0,0.5,1.0,0.5,3NA.F,FRA
+Pinewood,Pinewood Group plc,1.0,0.444444444444,1.0,1.0,PWS.L,LSE
+Phenix Systems,Phenix Systems SA,1.0,0.823529411765,1.0,1.0,ALPHX.PA,PAR
+Conway,"Home Bancshares, Inc. (Conway, AR)",1.0,0.176470588235,1.0,0.25,HOMB,NMS
+AB Universal,FAB Universal Corporation,1.0,0.48,0.5,0.5,FABU,PNK
+Wacom,"Wacom Co., Ltd.",1.0,0.333333333333,1.0,1.0,11W.F,FRA
+Arkema,Arkema S.A.,1.0,0.545454545455,1.0,1.0,AKE.PA,PAR
+Medicrea,Medicrea,1.0,1.0,1.0,1.0,ALMED.PA,PAR
+KEYENCE,KEYENCE CORP.,1.0,0.538461538462,1.0,1.0,KEE.MU,MUN
+HP Inc.,HP Inc.,1.0,1.0,1.0,1.0,HPQ.BA,BUE
+BASF SE,BASF SE NA O.N.,1.0,0.466666666667,1.0,0.5,BAS.MU,MUN
+Wake Forest,Wake Forest Bancshares Inc.,1.0,0.407407407407,1.0,0.666666666667,WAKE,PNK
+eSun,eSun Holdings Limited,1.0,0.190476190476,1.0,1.0,ESNNF,PNK
+Ricoh,"Ricoh Company, Ltd.",1.0,0.263157894737,1.0,1.0,RICOY,PNK
+Organovo,"Organovo Holdings, Inc.",1.0,0.347826086957,1.0,1.0,4OR.F,FRA
+DSM,DSM-AGI Corporation,1.0,0.157894736842,1.0,0.5,6507.TWO,TWO
+Magna International Inc,Magna International Inc.,1.0,0.958333333333,1.0,1.0,MGA,NYQ
+Arconic,Arconic Inc.,1.0,0.583333333333,1.0,1.0,AA-PB,NYQ
+Bio-on,Bio-on S.p.A.,1.0,0.461538461538,1.0,0.666666666667,ON.MI,MIL
+Nano Dimension,Nano Dimension Ltd.,1.0,0.736842105263,1.0,1.0,NNDM,NCM
+Spirit AeroSystems,"Spirit AeroSystems Holdings, Inc.",1.0,0.545454545455,1.0,1.0,S9Q.F,FRA
+ALPHAFORM,ALPHAFORM AG O.N.,1.0,0.529411764706,1.0,1.0,ATF.MU,MUN
+Covestro,Covestro AG,1.0,0.727272727273,1.0,1.0,CVXTY,PNK
+Altech,Altech Chemicals Limited,1.0,0.25,1.0,0.5,ATC.AX,ASX
+Kraken,Kraken Sonar Inc.,1.0,0.352941176471,1.0,0.5,KRKNF,PNK
+Bespoke,"Bespoke Extracts, Inc.",1.0,0.318181818182,1.0,0.5,DIMI,PNK
+Altair,Altair Resources Inc.,1.0,0.285714285714,1.0,0.5,AAEEF,PNK
+Endurance,"Endurance International Group Holdings, Inc.",1.0,0.204545454545,1.0,1.0,EIGI,NMS
+Draganfly,Draganfly Investments Limited,1.0,0.310344827586,1.0,0.5,DRG.L,LSE
+DMG MORI,DMG MORI AG O.N.,1.0,0.5,1.0,1.0,GIL.DU,DUS
+Ansys,"Ansys, Inc.",1.0,0.454545454545,1.0,1.0,ANSS,NMS
+Duro,Duro Felguera S.A. Acciones Por,1.0,0.129032258065,1.0,0.25,DF5A.SG,STU
+Materialise,Materialise NV,1.0,0.785714285714,1.0,0.5,MTLS,NMS
+ExOne,The ExOne Company,1.0,0.294117647059,1.0,0.5,XONE,NMS
+SLM Solutions,SLM Solutions Group AG,1.0,0.590909090909,1.0,1.0,SLGRF,PNK
+Orbital ATK,"Orbital ATK, Inc.",1.0,0.647058823529,1.0,1.0,OA,NYQ
+SYP,SYP AGRO FOODS LTD.,1.0,0.157894736842,1.0,0.333333333333,SYPAGFD.BO,BSE
+voxeljet,voxeljet AG Namens-Akt.(Spons.A,1.0,0.258064516129,1.0,0.25,VX8A.SG,STU
+Thales,Thales SA,1.0,0.666666666667,1.0,1.0,HONV.PA,PAR
+Assembly,"Assembly Biosciences, Inc.",1.0,0.307692307692,1.0,0.5,ASMB,NCM
+Dolomite,Dolomite Holdings Ltd,1.0,0.380952380952,1.0,1.0,DLMT.TA,TLV
+Tesla,"Tesla, Inc.",1.0,0.454545454545,1.0,1.0,TSLA.MX,MEX
+ReproCELL,"ReproCELL, Inc.",1.0,0.6,1.0,1.0,6RC.F,FRA
+Hexcel,Hexcel Corporation,1.0,0.333333333333,1.0,1.0,HXL.F,FRA
+3D Research,CBD MED Research Corp.,0.909090909091,0.454545454545,1.0,0.25,CBM-H.V,VAN
+VDM,VDM Group Limited,1.0,0.176470588235,1.0,1.0,VMG.AX,ASX
+Lenovo,Lenovo Group Limited,1.0,0.3,1.0,1.0,LHL1.SG,STU
+Zenith,China Zenith Chemical Group Limited,1.0,0.171428571429,1.0,0.333333333333,0362.HK,HKG
+Imaginarium,"Imaginarium, S.A.",1.0,0.647058823529,1.0,1.0,IMG.MC,MCE
+UNITED TECHNOLOGIES,UNITED TECHNOLOGIES CORP. Regis,1.0,0.612903225806,1.0,0.666666666667,UTC1.SG,STU
+Zodiac Aerospace,Zodiac Aerospace,1.0,1.0,1.0,1.0,ZDC.F,FRA
+MINERVA,J. & B. Ladenis Bros SA MINERVA Knitwear Manufacturing Company,1.0,0.112903225806,1.0,0.166666666667,MIN.AT,ATH
+Synergy,"Synergy Pharmaceuticals, Inc. -",1.0,0.225806451613,1.0,0.5,SGYPU,NCM
+Victrex,Victrex plc,1.0,0.636363636364,1.0,1.0,VCT.L,LSE
+EBERS,EBERS PHARMACEUTICALS LTD.,1.0,0.192307692308,1.0,0.5,EBEPH.BO,BSE
+ACES,"ACES Electronics Co., Ltd.",1.0,0.153846153846,1.0,0.5,3605.TW,TAI
+Andiamo,Andiamo Corporation,1.0,0.368421052632,1.0,1.0,ANDID,PNK
+Rabbit,Speed Rabbit Pizza,1.0,0.333333333333,1.0,0.333333333333,MLSRP.PA,PAR
+Somos,Somos Educação S.A.,1.0,0.238095238095,1.0,0.5,SEDU3.SA,SAO
+EOS,EOS Russia,1.0,0.3,1.0,0.5,V38.F,FRA
+NPS,"NPS Pharmaceuticals, Inc.",1.0,0.12,1.0,0.5,NPSP,NMS
+Hilliard,The Hilliard Corporation,1.0,0.333333333333,1.0,0.5,HLRD,PNK
+Builder,Eaton Vance Global Income Builder NS,1.0,0.194444444444,1.0,0.25,EVGBC,NGM
+Cybercom,Cybercom Group AB,1.0,0.470588235294,1.0,0.5,CYBE.ST,STO
+NanoFocus,NanoFocus AG Inhaber-Aktien o.N,1.0,0.290322580645,1.0,0.333333333333,N2F.SG,STU
+Carpenter,Carpenter Technology Corporation,1.0,0.28125,1.0,1.0,XTY.F,FRA
+Spark,Spark Infrastructure Group,1.0,0.192307692308,1.0,0.5,SFDPF,PNK
+WCM,WCM Beteiligungs- und Grundbesitz-AG,1.0,0.0833333333333,1.0,0.25,0QGK.L,LSE
+Next,Next Fifteen Communications Group plc,1.0,0.108108108108,1.0,0.333333333333,NFC.L,LSE
+A Schulman,"A. Schulman, Inc.",0.9,0.529411764706,1.0,1.0,SHLM,NMS
+Atlas,Macquarie Atlas Roads Group,1.0,0.185185185185,1.0,0.333333333333,M82.F,FRA
+AXIS,AXIS Capital Holdings Limited,1.0,0.137931034483,1.0,0.5,AXS-PD,NYQ
+Jabil,Jabil Inc. Registered Shares DL,1.0,0.161290322581,1.0,0.5,JBL.SG,STU
+MicroJet,"MicroJet Technology Co., Ltd.",1.0,0.275862068966,1.0,1.0,8197.TWO,TWO
+TETRA,TETRA BIO-PHARMA INC.,1.0,0.238095238095,1.0,0.333333333333,JAM1.BE,BER
+Olympus,Olympus Corporation,1.0,0.368421052632,1.0,1.0,OLY1.F,FRA
+voestalpine AG,voestalpine AG Inhaber-Aktien o,1.0,0.451612903226,1.0,0.333333333333,VAS.SG,STU
+Aerojet Rocketdyne,"Aerojet Rocketdyne Holdings, Inc.",1.0,0.545454545455,1.0,1.0,AJRD,NYQ
+Global Graphics,Global Graphics SE,1.0,0.833333333333,1.0,1.0,GLOG.BR,BRU
+JGC,JGC CORP. Registered Shares o.N,1.0,0.0967741935484,1.0,0.5,VJC.SG,STU
+GKN,"GKN PLC LS -,10",1.0,0.2,1.0,0.333333333333,GKN.DU,DUS
+BMP,BMP HOLDING AG O.N.,1.0,0.157894736842,1.0,0.5,BTBA.DU,DUS
+3DX Industries,"3DX Industries, Inc.",1.0,0.7,1.0,1.0,DDDX,PNK
+Zimmer,"Zimmer Biomet Holdings, Inc.",1.0,0.214285714286,1.0,0.5,ZIM.F,FRA
+Caliber,"Caliber Imaging & Diagnostics, Inc.",1.0,0.2,1.0,0.333333333333,LCDX,PNK
+Composite Solutions,Composite Solutions Inc.,1.0,0.791666666667,1.0,1.0,CPUT,PNK
+CCP,CCP Technologies Limited,1.0,0.125,1.0,1.0,AGX.AX,ASX
+RPM,"RPM INTERN. INC. DL-,01",1.0,0.130434782609,1.0,0.333333333333,RP8.BE,BER
+Nectar,Nectar Lifesciences Limited,1.0,0.222222222222,1.0,0.5,NECLIFE.BO,BSE
+Johnson Matthey,Johnson Matthey Plc,1.0,0.789473684211,1.0,0.666666666667,JMPLF,PNK
+Digital Media Group,Progressive Digital Media Group PLC,1.0,0.542857142857,1.0,0.666666666667,PRO.L,LSE
+Sonova,Sonova Holding AG,1.0,0.352941176471,1.0,0.5,PHBA.F,FRA
+Amedica,Amedica Corporation,1.0,0.368421052632,1.0,1.0,111N.F,FRA
+Abacus,Abacus Mining & Exploration Corporation,1.0,0.153846153846,1.0,0.333333333333,AME.V,VAN
+Lockheed Martin,Lockheed Martin Corporation,1.0,0.555555555556,1.0,1.0,LMTB34F.SA,SAO
+ACT GROUP,EXTRACT GROUP LTD O.N.,1.0,0.409090909091,0.5,0.5,EQ2.BE,BER
+Siemens,"Siemens Gamesa Renewable Energy, S.A.",1.0,0.189189189189,1.0,0.333333333333,GTQ1.DE,GER
+Oerlikon,OC Oerlikon Corporation AG,1.0,0.307692307692,1.0,0.5,OBH.F,FRA
+Xact Metal,Compact Metal Industries Ltd,0.9,0.321428571429,0.5,0.333333333333,T4E.SI,SES
+Energica,Energica Motor Company S.p.A.,1.0,0.275862068966,1.0,0.333333333333,EM8.F,FRA
+Fonon Corporation,Fonon Corporation,1.0,1.0,1.0,1.0,FNON,PNK
+Sandvik,Sandvik AB,1.0,0.7,1.0,0.5,SAND.ST,STO
+Kreon,Kreon Finnancial Services Ltd,1.0,0.172413793103,1.0,0.333333333333,KREONFIN.BO,BSE
+Wacker,Wacker Chemie AG,1.0,0.375,1.0,0.5,WCH.SW,EBS
+Adobe,Adobe Systems Incorporated,1.0,0.192307692308,1.0,0.5,ADBE.MX,MEX
+Graphene 3D Lab Inc.,Graphene 3D Lab Inc.,1.0,1.0,1.0,1.0,G31.F,FRA
+Arsenal,Arsenal Energy Inc.,1.0,0.368421052632,1.0,1.0,AEI.TO,TOR
+Servotech,Servotech Engineering Industries Ltd.,1.0,0.243243243243,1.0,0.5,SERVOTEC.BO,BSE
+JBM,JBM AUTO LTD INR5,1.0,0.176470588235,1.0,0.333333333333,JBMA-EQ.NS,NSI
+Thermwood Corporation,Thermwood Corporation,1.0,1.0,1.0,1.0,TOOD,PNK
+Sigma Labs,"Sigma Labs, Inc.",1.0,0.625,1.0,1.0,SGLBD,PNK
+Métropole,Métropole Télévision S.A.,1.0,0.357142857143,1.0,0.4,MMT.PA,PAR
+3D Industries,AMD Industries Limited,0.923076923077,0.545454545455,1.0,0.5,AMDIND.NS,NSI
+EDAG,EDAG Engineering Group AG,1.0,0.16,1.0,1.0,ED4.F,FRA
+D3 TECHNOLOGIES,M3 TECHNOLOGIES(ASIA)BHD,0.933333333333,0.583333333333,0.5,0.25,0017.KL,KLS
+ARC Group,"ARC Group Worldwide, Inc.",1.0,0.36,1.0,0.5,ARCW,NCM
+Vector,Vector Group Ltd.,1.0,0.352941176471,1.0,1.0,VGR,NYQ
+Altran,Altran Technologies S.A.,1.0,0.25,1.0,1.0,0IWK.L,LSE
+Elbit Systems,Elbit Systems Ltd.,1.0,0.722222222222,1.0,1.0,EB2.F,FRA
+Changing Technologies,"Changing Technologies, Inc.",1.0,0.777777777778,1.0,1.0,CHGT,PNK
+Alligator,Alligator Energy Limited,1.0,0.375,1.0,1.0,AGE.AX,ASX
+Applied Materials,"Applied Materials, Inc.",1.0,0.739130434783,1.0,1.0,AP2.DE,GER
+Heijmans,Heijmans N.V. Cert.v.Aandelen E,1.0,0.258064516129,1.0,0.166666666667,HJN1.SG,STU
+ACRON,ACRON GDR REG.S/1 RL 5,1.0,0.227272727273,1.0,0.166666666667,ANQ1.BE,BER
+3D Pioneer Systems,"3D Pioneer Systems, Inc.",1.0,0.75,1.0,1.0,DPSM,PNK
+DWS,DWS Limited,1.0,0.272727272727,1.0,1.0,DWS.AX,ASX
+United Therapeutics Corporation,United Therapeutics Corporation,1.0,1.0,1.0,1.0,UTH.F,FRA
+Autodesk,"Autodesk, Inc.",1.0,0.571428571429,1.0,1.0,AUD.F,FRA
+Monomer,Taiwan Styrene Monomer Corporation,1.0,0.205882352941,1.0,0.333333333333,1310.TW,TAI
+CGS,CGS International Inc.,1.0,0.136363636364,1.0,1.0,5310.TWO,TWO
+Evonik,Evonik Industries AG Namens-Akt,1.0,0.193548387097,1.0,0.25,EVK.SG,STU
+Quantum Materials,Quantum Materials Corp.,1.0,0.739130434783,1.0,0.666666666667,QTMM,PNK
