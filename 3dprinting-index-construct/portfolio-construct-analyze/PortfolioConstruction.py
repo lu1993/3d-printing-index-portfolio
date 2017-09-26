@@ -57,7 +57,7 @@ def main():
         full_data['DailyReturn'] = [1.0 * x/y for x,y in zip(np.array(full_data['Performance'].diff()),np.array(full_data['Performance']))]
         full_data['DailyReturn'].iloc[0] = 0
                 
-        # cummulative return
+        # cumulative return
         full_data['CumulativeReturn'] = np.array(full_data['Performance'])/full_data['Performance'].iloc[0]
                         
         # remove outliers for beta

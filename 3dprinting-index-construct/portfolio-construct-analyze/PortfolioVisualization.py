@@ -24,8 +24,8 @@ def main():
     for i in range(len(portfolio.keys())):
         p = portfolio[portfolio.keys()[i]]
         p = p[p.keys()[0]]
-        y = list(p['CummulativeReturn'])
-        #x = p.index 
+        y = list(p['CumulativeReturn'])
+        #x=p.index
         x=[dt.datetime.strptime(d,date_format) for d in p.index]
         plt.plot(x,y,label = portfolio.keys()[i])
         
