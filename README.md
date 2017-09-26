@@ -2,7 +2,7 @@
 
 ### objective: construct a tradable index portfolio to track the peformance of 3d printing related companies
 
-Structure of code file is as follows:
+Structure of code folder 3dprinting-index-construct is as follows:
 
 - blg-data-download
 	- DataDownloader.py: download data from bloomberg 
@@ -25,3 +25,5 @@ Structure of code file is as follows:
     - PortfolioVisualization.py: visualize result
 
 - yahoo-finance-downlaod: download data from Yahoo Finance
+
+- portfolio-optimization: a demo code for further portfolio optimization
