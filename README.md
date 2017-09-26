@@ -5,9 +5,9 @@
 Structure of code file is as follows:
 
 - blg-data-download
-	- DataDownloader.py: download data from bloomberg terminal
+	- DataDownloader.py: download data from bloomberg 
     - DataProcess.py: process data
-    - RevenueDownloader.py: download and process revenue data from bloomberg terminal
+    - RevenueDownloader.py: download and process revenue data from bloomberg 
     - BlbReferenceData.pyc: dependency 
     - SqlUpdateLib3.pyc: dependency
 
