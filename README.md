@@ -1,5 +1,7 @@
 # 3d-printing-index-portfolio
 
+# construct a tradable index portfolio to track the peformance of 3d printing related companies
+
 Structure of code file is as follows:
 
 - blg-data-download
