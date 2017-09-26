@@ -10,7 +10,7 @@ Structure of code file is as follows:
     - SqlUpdateLib3.pyc: dependency
 
 - google-trend-analyze
-	- GoogleTrendAnalyzer: process and analyze google trends
+	- GoogleTrendAnalyzer.py: process and analyze google trends
 
 - name-ticker-match
 	- NameTickerSearcher.py: use string match to match name and ticker 
